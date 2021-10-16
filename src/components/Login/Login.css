@@ -1,0 +1,25 @@
+.login-container {
+ display: flex;
+ justify-content: center;
+ margin: 1rem 0;
+}
+
+.login-container input {
+ width: 100%;
+ font-size: 1rem;
+ margin: 1em 0;
+ padding: 0.5em 2em;
+ border: 1px solid black;
+ border-radius: 5px;
+}
+.btn-regular {
+ margin-top: 2rem;
+ padding: 0.5em 1em;
+ font-size: 1rem;
+ color: #4081ec;
+ font-weight: bold;
+ background-color: #f3b605;
+ border: none;
+ border-radius: 10px;
+ cursor: pointer;
+}
